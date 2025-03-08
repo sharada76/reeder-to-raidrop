@@ -9,7 +9,7 @@ This script allows you to quickly save the currently open article in Reeder to R
 Before using this script, make sure you have:
 
 1. **Created an API token on Raindrop.io**
-   - Go to [Raindrop.io API](https://raindrop.io)
+
    - Generate a personal API token
    - Replace `apiToken` in the script with your generated token
 
